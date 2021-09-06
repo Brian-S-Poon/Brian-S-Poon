@@ -12,6 +12,11 @@ Video Streaming Service RDBMS is a relational database management system created
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
 
+<!-- ## Stray
+Stray is a command-line application in which the user plays as a stray cat in the Los Angeles suburbs.
+I designed a combat system using classes and object-oriented programming.-->
+
+
 
 
 
