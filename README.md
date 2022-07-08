@@ -2,7 +2,7 @@
 
 ## Artemis
 
-Artemis is an application that helps users track and monitor crypto assets in timed updates.
+Artemis is an application that helps users track and monitor crypto assets in timed intervals.
 I used jsoup to scrape and parse HTML documents from target website URL.
 I created a dynamic graphical user interface using Swing GUI widget toolkit.
 I also implemented Model-View-Controller design pattern to divide logic and interface.
