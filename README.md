@@ -2,10 +2,7 @@
 
 ## Artemis
 
-Artemis is an application that helps users track and monitor crypto assets in timed intervals.
-I used jsoup to scrape and parse HTML documents from target website URL.
-I created a dynamic graphical user interface using Swing GUI widget toolkit.
-I also implemented Model-View-Controller design pattern to divide logic and interface.
+Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to divide the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
 
 ## Video Streaming Service Management System
 Video Streaming Service RDBMS is a relational database management system created for a video streaming service provider.
