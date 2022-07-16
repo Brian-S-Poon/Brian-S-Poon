@@ -7,7 +7,7 @@
 
 ## Notable Projects
 
-## Artemis
+### Artemis
 
 Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to divide the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
 
