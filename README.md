@@ -17,7 +17,7 @@ I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
   
   
-![]("https://raw.githubusercontent.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/main/README.md")
+![]("[https://raw.githubusercontent.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/main/README.md](https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)")
 
 <!-- ## Stray
 Stray is a command-line application in which the user plays as a stray cat in the Los Angeles suburbs.
