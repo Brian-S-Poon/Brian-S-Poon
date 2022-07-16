@@ -1,4 +1,6 @@
+<p align='center'>
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 
 ## Notable Projects
