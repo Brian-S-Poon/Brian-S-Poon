@@ -1,6 +1,6 @@
-<p align='center'>
+
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt)]
-</p>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width="350"></a>
