@@ -1,8 +1,8 @@
 
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=800></a>
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" </a>
 </p>
 
 ## Notable Projects
