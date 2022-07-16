@@ -21,7 +21,7 @@ Stray is a command-line application in which the user plays as a stray cat in th
 I designed a combat system using classes and object-oriented programming.-->
 
 
-
+![](Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)
 
 
 <!--
