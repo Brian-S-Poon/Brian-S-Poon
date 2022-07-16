@@ -3,7 +3,6 @@
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=400 </a>
-  <img align="left" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="300" />
 </p>
 
 # Notable Projects
@@ -16,17 +15,10 @@ Built a desktop application in Java to track and monitor crypto assets in schedu
 Video Streaming Service RDBMS is a relational database management system created for a video streaming service provider.
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
+ 
   
 <p><img align="left" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="300" /></p>
   
-
-<!-- ## Stray
-Stray is a command-line application in which the user plays as a stray cat in the Los Angeles suburbs.
-I designed a combat system using classes and object-oriented programming.-->
-
-
-
-
 
 <!--
 **briansiuhinpoon/briansiuhinpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
