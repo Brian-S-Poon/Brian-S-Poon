@@ -3,6 +3,7 @@
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=400 </a>
+  <img align="left" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="300" />
 </p>
 
 # Notable Projects
