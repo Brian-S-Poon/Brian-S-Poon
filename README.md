@@ -21,9 +21,10 @@ Built a desktop application in Java to visually demonstrate 5 sorting algorithms
 Implemented the Model-view-controller architectural pattern along with a finite-state machine for the software architectural design and used the JUnit testing framework to create and run unit tests.
 
  
-  
+<!-- 
+** THIS IS A GIF TO GNOME SORT FROM SORTING ALGORITHM VISUALIZER
 <p><img align="left" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="300" /></p>
-  
+-->  
 
 <!--
 **briansiuhinpoon/briansiuhinpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
