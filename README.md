@@ -16,7 +16,7 @@ Video Streaming Service RDBMS is a relational database management system created
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
   
-<p><img align="right" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="500" height="320" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="500" height="320" /></p>
   
 
 <!-- ## Stray
