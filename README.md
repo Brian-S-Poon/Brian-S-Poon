@@ -15,13 +15,16 @@ Built a desktop application in Java to track and monitor crypto assets in schedu
 Video Streaming Service RDBMS is a relational database management system created for a video streaming service provider.
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
+  
+  
+![](Sorting-Algorithm-Visualizer/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)
 
 <!-- ## Stray
 Stray is a command-line application in which the user plays as a stray cat in the Los Angeles suburbs.
 I designed a combat system using classes and object-oriented programming.-->
 
 
-![](Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)
+
 
 
 <!--
