@@ -16,8 +16,8 @@ Video Streaming Service RDBMS is a relational database management system created
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
   
+<p><img align="right" alt="gif" src="https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif" width="500" height="320" /></p>
   
-![]("[https://raw.githubusercontent.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/main/README.md](https://github.com/Brian-S-Poon/Sorting-Algorithm-Visualizer/blob/main/Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)")
 
 <!-- ## Stray
 Stray is a command-line application in which the user plays as a stray cat in the Los Angeles suburbs.
