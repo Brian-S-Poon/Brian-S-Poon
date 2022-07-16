@@ -5,7 +5,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=250 </a>
 </p>
 
-# Notable Projects
+## Notable Projects
 
 ## Artemis
 
