@@ -11,11 +11,13 @@
 
 Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to divide the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
 
+<!--
 ## Video Streaming Service Management System
 Video Streaming Service RDBMS is a relational database management system created for a video streaming service provider.
 I designed and structured a Entity-relationship model using Lucidchart.
 I implemented data normalization to reduce data redundancy and also generated query reports with abstract data analysis.
-  
+-->
+
 ## Sorting Algorithm Visualizer
 Built a desktop application in Java to visually demonstrate 5 sorting algorithms using Swing GUI widget toolkit. 
 Implemented the Model-view-controller architectural pattern along with a finite-state machine for the software architectural design and used the JUnit testing framework to create and run unit tests.
