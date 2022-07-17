@@ -28,7 +28,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **I have an Associate's degree in Sociology**
+- ⚡ Fun fact **I have an Associate of Arts in Sociology**
 
 
 ### Personal Projects
