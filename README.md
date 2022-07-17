@@ -16,7 +16,7 @@ Built a desktop application in Java to visually demonstrate 5 sorting algorithms
 Implemented the Model-view-controller architectural pattern along with a finite-state machine for the software architectural design and used the JUnit testing framework to create and run unit tests.
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=350 </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt"</a>
 </p>
 
 
