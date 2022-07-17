@@ -27,7 +27,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](linkedin.com/in/brian-s-poon)
 
-- ⚡ Fun fact **A flamingo's head has to be upside down when it eats**
+- ⚡ Fun fact **I like listening to rap, EDM, and K-pop **
 
 
 ### Personal Projects
