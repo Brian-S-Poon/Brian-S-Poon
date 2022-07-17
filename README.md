@@ -22,7 +22,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 
 
-<!--
+
 
 <h1 align="center">Hi 👋, I'm Brian!</h1>
 <h3 align="center">A Computer Science undergraduate at CSULB.</h3>
@@ -59,7 +59,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-s-poon&" alt="brian-s-poon" /></p>
 
--->
+
 
 
 
