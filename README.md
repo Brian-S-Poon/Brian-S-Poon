@@ -28,6 +28,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 <h3 align="center">A Computer Science undergraduate at CSULB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /> </p>
+<br>
 
 - 🔭 I’m currently working on **building HTML and CSS websites**
 
