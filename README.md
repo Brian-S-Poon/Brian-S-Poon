@@ -5,14 +5,14 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=350 </a>
 </p>
 
-# <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 
 ### Personal Projects
 
 ### Artemis
 Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to divide the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
 
-### ![In-flight Rocket Telemetry]()
+### <a href="https://github.com/Brian-S-Poon/Raspberry-Pi-Pico-Projects/tree/main/Raspberry%20Pi%20Pico%20GT-U7%20GPS%20Module">In-flight Rocket Telemtry</a>
 Wrote embedded software in C++ as an avionics programmer of Beach Launch Team using a Raspberry Pi Pico to test the GT-U7 GPS module with the purpose of vehicle recovery and reusability. Used the TinyGPS++ Arduino library to encode and parse received NMEA data streams.
 
 <!--
