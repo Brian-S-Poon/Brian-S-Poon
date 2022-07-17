@@ -29,21 +29,19 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-s-poon" alt="brian-s-poon" /></a> </p>
-
 - 🔭 I’m currently working on **building HTML and CSS websites**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [brian-s-poon.github.io](brian-s-poon.github.io)
+- 👨‍💻 My notable projects are available at [brian-s-poon.github.io](brian-s-poon.github.io)
 
-- 💬 Ask me about **Model-view-controller, JUnit, Swing**
+- 💬 Ask me about **Model-view-controller architectural pattern, JUnit testing framework, Swing GUI widget toolkit**
 
 - 📫 How to reach me **brianpoondev@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/brian-s-poon](linkedin.com/in/brian-s-poon)
+- 📄 Connect with me [linkedin.com/in/brian-s-poon](linkedin.com/in/brian-s-poon)
 
 - ⚡ Fun fact **A flamingo's head has to be upside down when it eats**
 
