@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](brian-s-poon.github.io)
+- 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/)
 
 - 💬 Ask me about **Model-view-controller architectural pattern, JUnit testing framework, Swing GUI widget toolkit**
 
