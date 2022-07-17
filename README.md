@@ -11,7 +11,6 @@
 <h1 align="center">Hi 👋, I'm Brian!</h1>
 <h3 align="center">A Computer Science undergraduate attending California State University, Long Beach with focus in software engineering and full-stack development.</h3>
 
-<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /></a> </p>
 
 - 🔭 I’m currently working on **building HTML and CSS websites**
 
@@ -57,6 +56,9 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt"</a>
 </p>
+
+<!-- PROFILE VIEWS BADGE -->
+<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /></a> </p>
 
 
 
