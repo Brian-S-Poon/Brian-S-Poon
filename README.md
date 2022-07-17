@@ -35,7 +35,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 My notable projects are available   [brian-s-poon.github.io](brian-s-poon.github.io)
+- 👨‍💻 My notable projects are available   ![brian-s-poon.github.io](brian-s-poon.github.io)
 
 - 💬 Ask me about **Model-view-controller architectural pattern, JUnit testing framework, Swing GUI widget toolkit**
 
