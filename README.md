@@ -27,7 +27,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](linkedin.com/in/brian-s-poon)
 
-- ⚡ Fun fact **I like listening to rap, EDM, and K-pop **
+- ⚡ Fun fact **I like listening to rap, EDM, and K-pop**
 
 
 ### Personal Projects
