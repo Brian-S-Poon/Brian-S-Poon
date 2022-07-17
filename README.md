@@ -5,7 +5,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt" width=350 </a>
 </p>
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+# <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 ### Personal Projects
 
