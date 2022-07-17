@@ -28,7 +28,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **I like listening to rap, EDM, and K-pop**
+- ⚡ Fun fact **I have an Associate's degree in Sociology**
 
 
 ### Personal Projects
