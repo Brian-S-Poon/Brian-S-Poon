@@ -55,7 +55,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-s-poon&show_icons=true&locale=en&layout=compact" alt="brian-s-poon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-s-poon&show_icons=true&locale=en" alt="brian-s-poon" /></p>
+
 
 
 
