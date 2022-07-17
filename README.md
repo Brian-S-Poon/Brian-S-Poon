@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **building HTML and CSS websites**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
