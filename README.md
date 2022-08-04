@@ -14,7 +14,7 @@
 <!-- PROFILE VIEWS BADGE -->
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /></a> </p>
 
-- 🔭 I’m currently working on **building HTML and CSS websites and deploying with Docker**
+- 🔭 I’m currently working on **building HTML and CSS webpages and deploying with Docker on Amazon ECR and Microsoft Azure**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
