@@ -28,7 +28,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **I pour milk before cereal**
+- ⚡ Fun fact **Milk goes before cereal**
 
 
 ### Personal Projects
