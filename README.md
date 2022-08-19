@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **building HTML and CSS webpages and deploying with Docker on Amazon ECR and Microsoft Azure**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Bootstrap and JavaScript**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **open-source projects and academic group projects**
 
 - 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/)
 
-- 💬 Ask me about **Model-view-controller architectural pattern, JUnit testing framework, Docker deployment**
+- 💬 Ask me about **Model-view-controller architectural pattern, database management, Docker deployment**
 
 - 📫 How to reach me **brianpoondev@gmail.com**
 
