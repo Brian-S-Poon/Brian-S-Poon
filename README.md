@@ -20,7 +20,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **My original career goal was to become a social worker**
+- ⚡ Fun fact **My original career goal was to become a social worker to serve the aging community or homeless population**
 
 
 ### Personal Projects
