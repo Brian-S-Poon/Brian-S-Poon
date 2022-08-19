@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Bootstrap and JavaScript**
 
-- 👯 I’m looking to collaborate on **open-source projects and academic group projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/)
 
