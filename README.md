@@ -20,7 +20,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **My original career goal was to become a social worker serving the aging community and homeless population**
+- ⚡ Fun fact **In my free time I enjoy tinkering with my Raspberry Pi Pico RP2040**
 
 
 ### Personal Projects
