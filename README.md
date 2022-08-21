@@ -20,7 +20,7 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **My original career goal was to complete my Bachelor of Arts in Sociology and become a social worker serving the aging community and homeless population**
+- ⚡ Fun fact **My original career goal was to become a social worker serving the aging community and homeless population**
 
 
 ### Personal Projects
