@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **building HTML and CSS webpages and deploying with Docker on Amazon ECR and Microsoft Azure**
 
-- 🌱 I’m currently learning **Bootstrap and JavaScript**
+- 🌱 I’m currently learning **.NET Core and .NET Framework with C#**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
