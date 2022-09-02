@@ -44,7 +44,7 @@ Implemented the Model-view-controller architectural pattern along with a finite-
 
 <!-- Artemis -->
 ### <a href="https://github.com/Brian-S-Poon/Artemis">Artemis</a>
-Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to divide the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
+Built a desktop application in Java to track and monitor crypto assets in scheduled intervals. Created a dynamic graphical user interface using Swing GUI widget toolkit and implemented the Model-view-controller design pattern to decouple the business logic from the user interface. Used jsoup library to scrape and parse HTML documents from the destination website URL.
 
 
 
