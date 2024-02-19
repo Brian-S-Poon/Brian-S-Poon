@@ -55,11 +55,11 @@ Built a desktop application in Java to track and monitor crypto assets in schedu
 
 
 
-<!-- GITHUB CONTRIBUTION STATS BADGE -->
+<!-- GITHUB CONTRIBUTION STATS BADGE 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Brian-S-Poon&count_private=true&show_icons=true&theme=cobalt"</a>
 </p>
-
+-->
 
 
 
