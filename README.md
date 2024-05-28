@@ -14,10 +14,8 @@
 
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
-- ⚡ Fun fact **In my free time I enjoy tinkering with my Raspberry Pi Pico RP2040**
 
-
-### Personal Projects
+### Projects
 
 <!-- Software Questionnaire -->
 ### <a href="https://github.com/Brian-S-Poon/Software-Questionnaire">Software Questionnaire</a>
