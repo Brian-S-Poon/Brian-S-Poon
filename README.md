@@ -3,8 +3,9 @@
 <h1 align="center">Hey 👋, I'm Brian!</h1>
 <h3 align="center">A Computer Science undergraduate attending California State University, Long Beach with career focus in software engineering and full-stack development.</h3>
 
-<!-- PROFILE VIEWS BADGE -->
+<!-- PROFILE VIEWS BADGE 
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /></a> </p>
+-->
 
 - 🌱 I’m looking to collaborate on **open-source projects**
 
