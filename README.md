@@ -1,6 +1,7 @@
 
-
+<!--
 <h1 align="center">A Computer Science undergraduate attending California State University, Long Beach</h1>
+-->
 
 <!--
 <h3 align="center">Hey 👋, I'm Brian!</h3>
