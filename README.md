@@ -13,7 +13,7 @@
 
 - 🌱 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/)
+<!-- - 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/) -->
 
 - 📫 How to reach me **brianpoondev@gmail.com**
 
