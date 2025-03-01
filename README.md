@@ -21,7 +21,7 @@
 - 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
 
 
-## Projects
+### Projects
 
 <!-- Software Questionnaire -->
 ### <a href="https://github.com/Brian-S-Poon/Software-Questionnaire">Software Questionnaire</a>
