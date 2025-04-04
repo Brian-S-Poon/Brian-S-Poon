@@ -9,18 +9,6 @@
 <!-- <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=brian-s-poon&label=Profile%20views&color=0e75b6&style=flat" alt="brian-s-poon" /></a> </p> -->
 
 
-<!-- - 🌱 I’m looking to collaborate on **open-source projects** -->
-
-
-<!-- - 👨‍💻 My project portfolio is displayed at [brian-s-poon.github.io](https://brian-s-poon.github.io/) -->
-
-
-- 📫 How to reach me **brianpoondev@gmail.com**
-
-
-- 📄 Connect with me [linkedin.com/in/brian-s-poon](https://www.linkedin.com/in/brian-s-poon/)
-
-
 ### Projects
 
 <!-- Software Questionnaire -->
